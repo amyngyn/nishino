@@ -1,0 +1,33 @@
+.current {
+  text-align: center;
+}
+
+.previous {
+  font-size: 40px;
+  height: 60px;
+}
+
+.previous-true {
+  color: #006400;
+}
+
+.previous-false{
+  color: #cd0000;
+}
+
+.kana {
+  font-size: 300px;
+  height: 400px;
+}
+
+.answers > button {
+  height: 100px;
+  width: 100px;
+  border-radius: 15px;
+  font-size: 40px;
+  margin: 5px;
+}
+
+button:focus {
+  outline: 0;
+}
